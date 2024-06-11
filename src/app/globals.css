@@ -1,9 +1,11 @@
-@layer utilities {
+/* @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */
 html,
 body {
   height: 100%;
+  margin: 0;
+  width: 100%;
 }
